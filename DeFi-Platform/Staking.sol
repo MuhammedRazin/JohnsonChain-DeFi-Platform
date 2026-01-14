@@ -17,3 +17,4 @@ JohnsonChain-DeFi-Platform/
 ├── hardhat.config.js
 ├── package.json
 └── README.md
+Print("hey world")
