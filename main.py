@@ -1,3 +1,3 @@
 print("hello World")
 printed Accepted ("Growth")
-RewardToken ("hey world")
+RewardToken("hey world")
